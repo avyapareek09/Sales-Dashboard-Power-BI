@@ -24,4 +24,4 @@ The dashboard provides a clear visualization of sales data through interactive c
 - 🔍 Dynamic filtering using slicers
 - 📊 Easy-to-understand visualizations for business insights
 
-## Screenshot - 
+## Screenshot - https://github.com/avyapareek09/Sales-Dashboard-Power-BI/blob/main/Screenshot%202026-07-23%20220829.png
